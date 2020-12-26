@@ -1,9 +1,9 @@
 "# bitFlights" 
 
-        findServiceAvailable("Ahmedabad","Mumbai");
-        displayDirectFlight("Ahmedabad","Mumbai");
+findServiceAvailable("Chennai","Mumbai");
+displayDirectFlight("Ahmedabad","Mumbai");
         
-        "# Direct flight found
-Ahmedabad>F1122>Nagpur>F1122>Mumbai
 Direct flight found
-FlightNo. F1122" 
+Chennai>F1235>New Delhi>F2341>Ahmedabad>F1122>Nagpur>F1122>Mumbai
+Direct flight found
+FlightNo. F1122
